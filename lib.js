@@ -212,7 +212,7 @@ const getBNBPrice = async () => {
         const price = await res.json()
         return parseFloat(price.price)
     } catch (err) {
-        console.error("Unable to connect to Binance API", err)
+        console.error("Unable to connect to Binance API v2", err)
     }
 }
 
