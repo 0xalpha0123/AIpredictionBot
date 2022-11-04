@@ -64,11 +64,11 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
  - [x] Show real time profit 
  - [x] Show real time win rate 
  - [x] Daily goal profit 
- - [x] Improved algorithm v2.0 🔥
+ - [x] Improved algorithm v3.1 🔥
  - [x] AI Driven bot 🔥
  - [x] Stop Loss
  - [ ] Simplify settings 
- - [ ] Auto collect winnings 
+ - [x] Auto collect winnings 
 
 
 ## 👁️ Disclaimers
