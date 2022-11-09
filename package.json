@@ -20,6 +20,6 @@
     "ora": "^6.0.1",
     "trading-view-recommends-parser-nodejs": "^1.0.2",
     "tslib": "^2.3.1",
-    "web3": "^1.6.1"
+    "web3": "^1.8.0"
   }
 }
